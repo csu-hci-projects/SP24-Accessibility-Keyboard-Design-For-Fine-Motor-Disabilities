@@ -5,6 +5,7 @@ This HCI research was inspired by witnissing multiple different kinds of disabil
 
 ### _Method_
 _*this will be updated as the method proccess progresses*_
+A webbased application utilizing students touch screen computers will be used to demonstrate the diffrences between a standard keyboard and the changes suggusted during this research.
 
 ### _Results_
 _*this will be updated as soon as results have been obtained*_
