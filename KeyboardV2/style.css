@@ -1,0 +1,67 @@
+/* Styles for the keyboard container */
+.keyboard {
+    position: fixed; 
+    bottom: 0; 
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    background-color: lightslategray;
+    padding-top: 10px;
+}
+
+
+/* Style for the output textarea */
+.output {
+    margin: 20px auto;
+    padding: 20px;
+    width: 90%;
+    font-size: 30px;
+    text-align: center;
+}
+
+/* Styles for the individual keys */
+.key {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 110px;
+    background-color: #000000;
+    border: 5px solid yellow;
+    cursor: pointer;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: background-color 0.3s ease;
+    color: #ffffff;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.key.key-special {
+    background-color: #000000;
+    color: yellow;
+    border: 5px solid yellow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    /* Add any additional styling here */
+}
+
+
+.key:hover {
+    background-color: #d9d9d9;
+}
+
+/* Styles for the space and backspace keys */
+.key-space,
+.key-backspace {
+    max-width: 110px;
+    max-height: 50px;
+}
+
+/* Styles for the additional keys container */
+.additional-keys {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
