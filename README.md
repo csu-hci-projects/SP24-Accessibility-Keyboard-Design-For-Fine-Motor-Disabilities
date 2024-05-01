@@ -17,7 +17,11 @@ The current keyboard are easily accessible from Colorado State University's publ
 + [Keyboard Version 3](https://cs.colostate.edu/~paigeljh/CS464_Research/V.3/main.html)
   
 If the Keyboard Links listed no longer are hosting this project you can take the following steps to download the project to a local machine and run it locally.
-
+1) Top right download the Zip file containing the full project to your local machine.
+2) Extract contents of Zip file to desired location.
+3) Navigate to folder of desired Keyboard Version.
+4) Double click or run the main.html file.
+5) Congragulations! You should now have a working Keyboard running on your machine!
 
 ### _Repository Guide_
 __KeyboardV1__ *(This directory has everything for the setup of Keyboard Version 1)*
