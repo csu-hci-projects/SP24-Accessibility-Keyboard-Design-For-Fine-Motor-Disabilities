@@ -4,11 +4,10 @@
 This HCI research was inspired by witnissing multiple different kinds of disabilities within students and the impact of standardized input devices used such as a computer keyboard. The goal of this project is to help gain a better understanding of small adjustments on an average keyboard that may help improve the quality of life for individuals with motor disabilities, visual disabilities, and learning disabilities. 
 
 ### _Method_
-_*this will be updated as the method proccess progresses*_
-A webbased application utilizing students touch screen computers will be used to demonstrate the diffrences between a standard keyboard and the changes suggusted during this research. Ten consenting participants were first tested with the sentance "The Quick Brown Fox Jumped Over The Lazy Dog." on a standard touch screen keyboard that is preprogrammed into the laptop. To minimize outside variables the same laptop was used during all participant tests.
+A webbased application utilizing students touch screen computers will be used to demonstrate the diffrences between a standard keyboard and the changes suggusted during this research. Eight consenting participants were first tested with the sentance "The Quick Brown Fox Jumped Over The Lazy Dog." on a standard touch screen keyboard that is preprogrammed into the laptop. To minimize outside variables the same laptop was used during all participant tests. Typing sessions were timed, and notes were taken on each letter input to assess accuracy, including successful key presses within a 10-second window and miss-clicks. 
 
 ### _Results_
-_*this will be updated as soon as results have been obtained*_
+Upon analyzing the data using statistical analysis methods, including a two-way ANOVA and post-hoc tests, it was found that there were no significant differences in the typing speed or accuracy between any custom keyboards and the standard keyboard. However, a nuanced difference in typing speed was present when comparing the modified keyboards amongst themselves.
 
 ### _How to run the programs_
 The current keyboard are easily accessible from Colorado State University's public servers for student projects as of (4/30/2024). You can visit the websites that the keyboards are hosted on by clicking the hyperlinks below:
